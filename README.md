@@ -16,7 +16,7 @@
 
 ###
 
-<h5 align="left">Technologies i use</h5>
+<h4 align="left">Technologies i use</h4>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h5 align="left">Contact me</h5>
+<h4 align="left">Contact me</h4>
 
 ###
 
